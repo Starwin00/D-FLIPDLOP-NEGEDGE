@@ -29,7 +29,7 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 **PROGRAM**
 ```
-Developed by: P Kevin RegisterNumber: 24901145
+Developed by: Starwin rex RegisterNumber: 212224050048
 ```
 
 D FlipFlop
